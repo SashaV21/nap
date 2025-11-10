@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+
+# Local config
+.env
+config.json
+
+# Secrets
+*.key
+*.pem
+id_rsa
+id_ed25519
+
+# Bytecode and build artifacts (если в будущем будет сборка)
+build/
+dist/
+*.egg-info/
