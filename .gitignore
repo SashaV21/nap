@@ -33,3 +33,5 @@ id_ed25519
 build/
 dist/
 *.egg-info/
+
+my-project.txt
